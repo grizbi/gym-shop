@@ -1,0 +1,227 @@
+body
+{
+	background-image:url("email-pattern.png");
+	font-family:Arial;
+	display:flex;
+	flex-direction:column;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%; 	
+
+}
+
+html
+{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+}
+
+
+.bgnav 
+{
+
+	margin-bottom:45px;
+	background-color:#333333 !important;
+
+}
+
+.text
+{
+	color:#b3b3b3;
+	padding-left:20px;
+	
+}
+
+
+.trening img
+{
+	border-color:#333333;
+	border-style:solid;
+	
+}
+
+.przyciski div
+{
+
+	padding-top:20px;
+	font-size: 20px;
+
+}
+
+
+.bestsellery
+{
+
+	font-size:20px;
+	padding-top:5px;
+	
+}
+.bestsellery img
+{
+	border-color:#333333;
+	border-style:solid;
+	border-width:2px;
+}
+.bestsellery figcaption
+{
+
+
+	color:black;
+	padding-top:8px;
+	text-align:center;
+	border-left-style:solid;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-width:2px;
+	padding-bottom:7px;
+
+}
+
+h1
+{
+	padding-top:25px;
+	padding-bottom:20px;
+	color:#b3b3b3;
+	text-align:center;
+	font-size:50px;
+}
+
+
+.nowosci figcaption
+{
+	padding-top:7px;
+	border-left-style:solid;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-width:2px;
+	padding-bottom:7px;
+	text-align:center;
+	font-size:20px;
+
+}
+
+.nowosci img
+{
+	
+	border-color:#333333;
+	border-style:solid;
+	border-width:2px;
+}
+
+.nowosci
+{
+	padding-top:7px;
+}
+
+
+.menuprzycisk h4
+{
+	background-color:#333333;
+	text-align: center;
+}
+
+
+footer
+{
+	background:#333333;
+	color:#b3b3b3;
+	padding-top:15px;
+	height:100px;
+	width:100%;
+	text-align:center;
+	font-style:italic;
+	margin-top:auto;
+}
+
+
+
+.multiwitamina figcaption
+{
+	padding-top:20px;
+	font-size:20px;
+	text-align: justify;
+	display:table-caption;
+	caption-side:bottom;
+	
+}
+
+.multiwitamina figure 
+{
+	display: table;
+
+}
+
+
+.kupteraz h4 
+{
+	background-color:#333333;
+	text-align:center;
+	padding-bottom:40px;
+	margin-left:100px;
+	margin-right:100px;
+	text-align:center;
+}
+
+.kupteraz p
+{
+	padding-botom:8px;
+}
+
+
+.error
+{
+	padding-bottom:20px;
+}
+
+.navbar-text
+{
+	text-align:left;
+	padding-left:20px;
+}
+
+
+.register
+{
+	padding-top:25px;
+}
+
+#zegar
+{
+	color:#b3b3b3;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+	
+
+
+
